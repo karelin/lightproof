@@ -358,7 +358,7 @@ ne játs(zunk|zatok|zanak) -> ne játss\1  # Helyesírási hiba.
 [Word]
 
 [aá] la carte -> à la carte			# Helyesen à la carte.
-(állta(ss\w*|t\w*)) <- not morph(\1, "pa:") -> álta\2 # Áltat, hiteget értelemben egy l-lel írjuk.
+álltat -> áltat # Áltat, hiteget értelemben egy l-lel írjuk.
 önáll(tat[óá]\w*) -> önál\1 			# Helyesen egy l-lel.
 belsőséges -> bensőséges|belsőségből készült	# Szótévesztés vagy szójáték?
 dehogy is -> dehogyis				# Egybeírás „egyáltalán nem” jelentésben.

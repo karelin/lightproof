@@ -1,3 +1,6 @@
+2014-01-20 László Németh <nemeth@numbertext.org>:
+- űlltatok nincs aláhúzva hibaként, csak álltat (OOO-875: OpenScope.org)
+
 2013-12-16 László Németh <nemeth@numbertext.org>:
 - r i t k í t o t t  szöveg felismerése (keskeny szóköz opció bekapcsolásánál),
   majd cserejavaslat nem törő keskeny szóközökre, ill. szóközök nélkülire.
