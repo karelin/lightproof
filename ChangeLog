@@ -1,3 +1,7 @@
+2014-05-15 László Németh <nemeth@numbertext.org>:
+        - Python 3.3 port of the measurement conversion in
+          the English and Hungarian modules
+
 2013-11-20 László Németh <nemeth@numbertext.org>:
         - Python 3.3 port of build environment of the editor
 
