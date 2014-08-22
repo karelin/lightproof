@@ -24,7 +24,7 @@
 
 grammar: *hyphen *comma, *multiword *together
 proofreading:  *common *space, *abbreviation *dup 
-others: numsep, *typographica, *quotation
+others: numsep, *typographica, quotation
 
 # titles
 
